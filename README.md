@@ -11,3 +11,7 @@ My first repository
 - Dustin
 - Hopper
 My
+## My Favorite Series 🍿
+**Title:** Stranger Things  
+*Genre:* Sci-Fi / Mystery  
+> I love this series because of its mix of adventure, 80’s nostalgia, and strong friendships.
